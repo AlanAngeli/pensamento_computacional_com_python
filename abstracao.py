@@ -7,4 +7,4 @@ qtd_alunos = 4
 soma_nota_alunos = aluno1 + aluno2 + aluno3 + aluno4
 media = soma_nota_alunos / qtd_alunos
 print("A média das notas é: ", media)
-#
+
